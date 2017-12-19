@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FaceChallenge</string>
+    <string name="facebook_app_id">133482770650075</string>
+    <string name="fb_login_protocol_scheme">fb133482770650075</string>
+</resources>
